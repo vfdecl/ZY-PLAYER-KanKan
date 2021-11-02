@@ -20,8 +20,8 @@
 
 #### 下载地址：
 
-[https://m3w.cn/nplayer](https://m3w.cn/nplayer)  【包含 安卓 和 IOS TF版】
-
+[https://m3w.cn/nplayer](https://m3w.cn/nplayer) 
+由于苹果商店的政策限制以，iOS版本已无法安装，这属于无法抗拒性因素。没卸载的应该还能用。
 <p style="display:flex;">
   <img src='https://i.niupic.com/images/2021/05/25/9io4.jpg' width="200">
   <img src='https://i.niupic.com/images/2021/05/25/9io5.jpg' width="200">
